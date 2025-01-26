@@ -1,0 +1,5 @@
+C:\Users\wilko\Documents\RandomCodes\PasswordGenerator.exe
+C:\Users\wilko\Documents\RandomCodes\PasswordGenerator.dll
+C:\Users\wilko\Documents\RandomCodes\PasswordGenerator.deps.json
+C:\Users\wilko\Documents\RandomCodes\PasswordGenerator.runtimeconfig.json
+C:\Users\wilko\Documents\RandomCodes\PasswordGenerator.pdb
